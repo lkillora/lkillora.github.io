@@ -6,7 +6,7 @@ It allows the user many functionalities; one being to select a country or two.
 This will make the bubbles representing all other countries more transparent. 
 The labels for the selected countries will pop up to be large and visible.
 The radar plot will graph how both countries fare in the various pillars of
-competitiveness, and it animates the selections too, expanding up from small polygons.
+competitiveness, and it animates the selections too, by expanding them up from small polygons.
 The bubble plot will track the path of the two countries.
 The labels will always stay in front of the bubbles.
 
