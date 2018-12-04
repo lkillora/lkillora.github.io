@@ -13,7 +13,7 @@ The bubble plot will track the path of the two countries, and the labels will al
 
 The user can then select a new year to view and the visualisation will animate the transition.
 Or hit the "Play" button to animate through 20 years (looping from 2017 to 2007), unless they hit the "Stop" button. 
-The "Reset" button can also stop the playthrough, but it will concomitantly reset all the selections and dropdown menus too.
+The "Reset" button can also stop the playthrough, but it will simultaneously reset all the selections and dropdown menus too.
 The display year will change with the animations or selections.
 
 When the user hovers their mouse over the bubbles, they will change colour 
