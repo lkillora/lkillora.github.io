@@ -16,11 +16,11 @@ Or hit the "Play" button to animate through 20 years (looping from 2017 to 2007)
 The "Reset" button can also stop the playthrough, but it will simultaneously reset all the selections and dropdown menus too.
 The display year will change with the animations or selections.
 
-## Quickfire Notes:
-When the user hovers their mouse over the bubbles, they will change colour 
+Quickfire Notes:
+- When the user hovers their mouse over the bubbles, they will change colour 
 and display the nation they represent.
-The "Select Country" dropdown menu options are populated from an Excel CSV file.
-The radar legend dynamically appears and resizes to the selections.
-The coloured world map was made in Microsoft Paint by using a originally-blank map.
-The x axis is scaled logarithmically.
-The data comes from one Excel CSV file.
+- The "Select Country" dropdown menu options are populated from an Excel CSV file.
+- The radar legend dynamically appears and resizes to the selections.
+- The coloured world map was made in Microsoft Paint by using a originally-blank map.
+- The x axis is scaled logarithmically.
+- The data comes from one Excel CSV file.
