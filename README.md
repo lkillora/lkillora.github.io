@@ -1,9 +1,8 @@
-# lkillora.github.io
-An Homage to Hans
+# An Homage to Hans
 
 The visualisation can be viewed at https://lkillora.github.io/.
 
-This is an homage to Hans Rosling, who gave the ted talk "The Best Stats You've Ever Seen", which can be viewed at https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en.
+It is an homage to Hans Rosling, who gave the ted talk "The Best Stats You've Ever Seen", which can be viewed at https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en.
 
 This visualisation allows the user many functionalities; one being to select a country or two. 
 As a result the bubbles representing all other countries will become more transparent. 
